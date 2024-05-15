@@ -1,0 +1,5 @@
+import time 
+
+print("O matko jedyna, chyba to znalazłam")
+time.sleep(3)
+print("I really hope so")
